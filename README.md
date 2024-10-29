@@ -15,7 +15,7 @@ This repo captures my growth and unwavering commitment. Here, I've conquered 4 a
 - [Assignment 3](Assignment3): String Manipulation, File Reading
 - [Assignment 4](Assignment4): Image Processing (SimpleImage)
 
-## 📖 About stanCode 001
+## 📖 About stanCode SC001
 
 At the heart of my learning journey is stanCode, a brainchild of Stanford MSc. grad Jerry, dedicated to delivering Stanford-grade CS education to students across disciplines in Taiwan. stanCode 001, drawing inspiration from Stanford’s CS106A, lays a solid groundwork in programming.
 
